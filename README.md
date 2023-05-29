@@ -14,4 +14,8 @@ JavaScript: For handling user interactions, performing conversions, and updating
 
 ![Screenshot (84)](https://github.com/Akram544/Unit-Converter/assets/134378271/8f81e99c-cda4-4d1d-9e1c-5560d147ad51)
 
+# Acknowledgements
+
+This project was inspired by the need for a simple and user-friendly unit converter. It leverages the power of web development technologies to provide an accessible solution for converting between different units of measurement.
+
 
